@@ -6,12 +6,11 @@ they are useful beyond ElasticLoom.
 
 ## Open source projects
 
-### [Byssus](https://github.com/ElasticLoom/byssus)
-
-Live filesystem attachments between isolated workspaces. A small Linux daemon
-turns group membership, declared by creating or deleting empty files, into bind
-mounts (read-only by default) that appear in already-running containers without
-restarts. Rust, Apache-2.0.
+- **[Byssus](https://github.com/ElasticLoom/byssus)** — Live filesystem
+  attachments between isolated workspaces. A small Linux daemon turns group
+  membership, declared by creating or deleting empty files, into bind mounts
+  (read-only by default) that appear in already-running containers without
+  restarts. Rust, Apache-2.0.
 
 More projects will be released here over time.
 
